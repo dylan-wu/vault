@@ -1,0 +1,3 @@
+[submodule "Vaults/ChallengeDash.com"]
+	path = Vaults/ChallengeDash.com
+	url = git@github.com:challengedash/vault.git
