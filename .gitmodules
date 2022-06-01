@@ -1,3 +1,9 @@
 [submodule "Vaults/ChallengeDash.com"]
 	path = Vaults/ChallengeDash.com
 	url = git@github.com:challengedash/vault.git
+[submodule "Vaults/BasisAnalytics.com"]
+	path = Vaults/BasisAnalytics.com
+	url = git@github.com:BasisAnalytics/vault.git
+[submodule "Vaults/CanopyJS.com"]
+	path = Vaults/CanopyJS.com
+	url = git@github.com:canopyjs/vault.git
