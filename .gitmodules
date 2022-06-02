@@ -100,12 +100,12 @@
 [submodule "Organizer"]
 	path = Organizer
 	url = git@github.com:wporganizer/vault.git
-[submodule "ObsidianMaster.com"]
-	path = ObsidianMaster.com
-	url = git@github.com:ObsidianMastery/vault.git
 [submodule "Vaults/DataKaiju.com"]
 	path = Vaults/DataKaiju.com
 	url = git@github.com:datakaiju/vault.git
 [submodule "Courses/Stanford Machine Learning"]
 	path = Courses/Stanford Machine Learning
 	url = git@github.com:dylan-wu/course-stanford-machine-learning-coursera.git
+[submodule "ObsidianMastery.com"]
+	path = ObsidianMastery.com
+	url = git@github.com:ObsidianMastery/vault.git
