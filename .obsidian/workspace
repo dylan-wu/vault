@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizer/Notes/Nicole Hoeven.md",
+            "file": "Content/Runway/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizer/Notes/Nicole Hoeven.md",
+                "file": "Content/Runway/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a0cb2d760b9eb8a1",
   "lastOpenFiles": [
+    "Content/Runway/Untitled.md",
     "Organizer/Notes/Nicole Hoeven.md",
     "ObsidianMastery.com/README.md",
     "ObsidianMastery.com/Notes/Plugin Templater.md",
@@ -97,7 +98,4 @@
     "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
     "ObsidianMastery.com/Notes/Filipe Donadio.md",
     "ObsidianMastery.com/Notes/Create a movie database.md",
-    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice I - Feature Scaling.md",
-    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice II - Learning Rate.md"
-  ]
-}
+    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice I - Feat
