@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/06-03-2022.md",
+            "file": "Content/Runway/06-02-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/06-03-2022.md",
+                "file": "Content/Runway/06-02-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Daily/06-03-2022.md",
     "Content/Runway/06-02-2022.md",
+    "Daily/06-03-2022.md",
     "Daily/06-02-2022.md",
     "Organizer/Notes/David Perell - For years, I've been obsessed with a philosopher named René Girard.md",
     "Organizer/Notes/HEY UI Feature Design.md",
