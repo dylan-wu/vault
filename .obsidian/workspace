@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/README.md",
+            "file": "Organizer/Notes/Nicole Hoeven.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/README.md",
+                "file": "Organizer/Notes/Nicole Hoeven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a0cb2d760b9eb8a1",
   "lastOpenFiles": [
+    "Organizer/Notes/Nicole Hoeven.md",
     "ObsidianMastery.com/README.md",
     "ObsidianMastery.com/Notes/Plugin Templater.md",
     "ObsidianMastery.com/Notes/Plugin Path Title.md",
@@ -97,7 +98,6 @@
     "ObsidianMastery.com/Notes/Filipe Donadio.md",
     "ObsidianMastery.com/Notes/Create a movie database.md",
     "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice I - Feature Scaling.md",
-    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice II - Learning Rate.md",
-    "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/Normal Equation.md"
+    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice II - Learning Rate.md"
   ]
 }
