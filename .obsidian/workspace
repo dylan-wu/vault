@@ -7,8 +7,12 @@
         "id": "ec4c844f46217393",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daily/Task Structure.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/Task Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Daily/Untitled Kanban.md",
     "Daily/Task Structure.md",
+    "Daily/Untitled Kanban.md",
     "Daily/06-02-2022.md",
     "Daily/06-01-2022.md",
     "Content/Runway/06-02-2022.md",
