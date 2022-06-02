@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0cb2d760b9eb8a1",
+        "id": "ec4c844f46217393",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Organizer/Notes/Site Template.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizer/Notes/Site Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0cb2d760b9eb8a1",
+  "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Organizer/README.md",
+    "Organizer/Templates/Todos.md",
+    "Organizer/Templates/Pitch Templates.md",
     "Organizer/Notes/Site Template.md",
     "Content/Runway/06-02-2022.md",
     "Organizer/Notes/Nicole Hoeven.md",
     "ObsidianMastery.com/README.md",
     "ObsidianMastery.com/Notes/Plugin Templater.md",
     "ObsidianMastery.com/Notes/Plugin Path Title.md",
-    "ObsidianMastery.com/Notes/Plugin Collapse All.md",
-    "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
-    "ObsidianMastery.com/Notes/Filipe Donadio.md",
-    "ObsidianMastery.com/Notes/Create a movie database.md"
+    "ObsidianMastery.com/Notes/Plugin Collapse All.md"
   ]
 }
