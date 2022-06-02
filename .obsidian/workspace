@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/README.md",
+            "file": "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/README.md",
+                "file": "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a0cb2d760b9eb8a1",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
     "ObsidianMastery.com/README.md",
     "ObsidianMaster.com/README.md",
     "ObsidianMaster.com/Notes/Create a movie database.md",
@@ -97,7 +98,6 @@
     "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice II - Learning Rate.md",
     "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice I - Feature Scaling.md",
     "~/Untitled.md",
-    "Courses/Stanford Machine Learning/README.md",
-    "ObsidianMaster.com/Inbox/Plugin API FAQ by Liam Cain.md"
+    "Courses/Stanford Machine Learning/README.md"
   ]
 }
