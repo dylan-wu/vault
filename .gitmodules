@@ -109,3 +109,6 @@
 [submodule "ObsidianMastery.com"]
 	path = ObsidianMastery.com
 	url = git@github.com:ObsidianMastery/vault.git
+[submodule "Vaults/OwnYourLearning.co"]
+	path = Vaults/OwnYourLearning.co
+	url = git@github.com:OwnYourLearning/vault.git
