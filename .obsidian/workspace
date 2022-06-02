@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/06-02-2022.md",
+            "file": "Organizer/Notes/David Perell - For years, I've been obsessed with a philosopher named René Girard.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/06-02-2022.md",
+                "file": "Organizer/Notes/David Perell - For years, I've been obsessed with a philosopher named René Girard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Organizer/Notes/David Perell - For years, I've been obsessed with a philosopher named René Girard.md",
     "Daily/06-02-2022.md",
     "Organizer/Notes/HEY UI Feature Design.md",
     "Organizer/README.md",
@@ -97,7 +98,6 @@
     "Daily/Task Structure.md",
     "Daily/06-01-2022.md",
     "Content/Runway/06-02-2022.md",
-    "Organizer/Notes/RunwayML.md",
-    "README.md"
+    "Organizer/Notes/RunwayML.md"
   ]
 }
