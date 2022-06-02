@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Features and Polynomial Regression.md",
+            "file": "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Features and Polynomial Regression.md",
+                "file": "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a0cb2d760b9eb8a1",
   "lastOpenFiles": [
+    "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/Untitled.md",
     "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Features and Polynomial Regression.md",
     "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/Normal Equation.md",
     "ObsidianMastery.com/README.md",
@@ -97,7 +98,6 @@
     "ObsidianMaster.com/README.md",
     "ObsidianMaster.com/Notes/Create a movie database.md",
     "ObsidianMaster.com/References/Filipe Donadio.md",
-    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice II - Learning Rate.md",
-    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice I - Feature Scaling.md"
+    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice II - Learning Rate.md"
   ]
 }
