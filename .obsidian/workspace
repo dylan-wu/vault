@@ -7,10 +7,8 @@
         "id": "ec4c844f46217393",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Daily/Untitled Kanban.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
