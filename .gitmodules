@@ -7,3 +7,105 @@
 [submodule "Vaults/CanopyJS.com"]
 	path = Vaults/CanopyJS.com
 	url = git@github.com:canopyjs/vault.git
+[submodule "Vaults/CssGenerator.co"]
+	path = Vaults/CssGenerator.co
+	url = git@github.com:css-generator/vault.git
+[submodule "vaults/CssGenerator.co"]
+	path = vaults/CssGenerator.co
+	url = git@github.com:css-generator/vault.git
+[submodule "vaults/DataWrangling.co"]
+	path = vaults/DataWrangling.co
+	url = git@github.com:datawranglingco/vault.git
+[submodule "vaults/HabitsOne.com"]
+	path = vaults/HabitsOne.com
+	url = git@github.com:habitsone/vault.git
+[submodule "vaults/MillionDollar.one"]
+	path = vaults/MillionDollar.one
+	url = git@github.com:milliondollarone/vault.git
+[submodule "vaults/MillionDollar.tube"]
+	path = vaults/MillionDollar.tube
+	url = git@github.com:milliondollartube/vault.git
+[submodule "vaults/SaaSBuilder.co"]
+	path = vaults/SaaSBuilder.co
+	url = git@github.com:saas-builder/vault.git
+[submodule "vaults/SaaSaurus.com"]
+	path = vaults/SaaSaurus.com
+	url = git@github.com:saasaurus/vault.git
+[submodule "vaults/AtomicSkill.co"]
+	path = vaults/AtomicSkill.co
+	url = git@github.com:atomicskill/vault.git
+[submodule "vaults/DataTheory.org"]
+	path = vaults/DataTheory.org
+	url = git@github.com:datatheory/vault.git
+[submodule "vaults/StartUpJr.co"]
+	path = vaults/StartUpJr.co
+	url = git@github.com:startupjr/vault.git
+[submodule "vaults/Indie.Science"]
+	path = vaults/Indie.Science
+	url = git@github.com:indiescience/vault.git
+[submodule "vaults/WPOrganizer.com"]
+	path = vaults/WPOrganizer.com
+	url = git@github.com:wporganizer/vault.git
+[submodule "vaults/OneHour.Biz"]
+	path = vaults/OneHour.Biz
+	url = git@github.com:onehourbiz/vault.git
+[submodule "vaults/SelfSchool.org"]
+	path = vaults/SelfSchool.org
+	url = git@github.com:selfschool/obsidian-vault.git
+[submodule "vaults/ChallengeDash.com"]
+	path = vaults/ChallengeDash.com
+	url = git@github.com:datakaiju/vault.git
+[submodule "vaults/WTFoss.com"]
+	path = vaults/WTFoss.com
+	url = git@github.com:wtfoss/vault.git
+[submodule "vaults/Artset.io"]
+	path = vaults/Artset.io
+	url = git@github.com:artsetio/vault.git
+[submodule "vaults/BasisAnalytics.com"]
+	path = vaults/BasisAnalytics.com
+	url = git@github.com:basisanalytics/vault.git
+[submodule "vaults/FreeDataCamp.com"]
+	path = vaults/FreeDataCamp.com
+	url = git@github.com:freedatacamp/vault.git
+[submodule "vaults/GenerativeScience.com"]
+	path = vaults/GenerativeScience.com
+	url = git@github.com:generative/vault.git
+[submodule "vaults/FreelanceJoy.com"]
+	path = vaults/FreelanceJoy.com
+	url = git@github.com:freelancejoy/vault.git
+[submodule "vaults/MathClimb.com"]
+	path = vaults/MathClimb.com
+	url = git@github.com:mathclimb/vault.git
+[submodule "vaults/Hack.Degree"]
+	path = vaults/Hack.Degree
+	url = git@github.com:hackdegree/vault.git
+[submodule "vaults/Narratives.ai"]
+	path = vaults/Narratives.ai
+	url = git@github.com:narrativesai/vault.git
+[submodule "vaults/Frontend.School"]
+	path = vaults/Frontend.School
+	url = git@github.com:frontenddotschool/vault.git
+[submodule "vaults/WPOrganizer"]
+	path = vaults/WPOrganizer
+	url = git@github.com:wporganizer/vault.git
+[submodule "vaults/ObsidianMastery.com"]
+	path = vaults/ObsidianMastery.com
+	url = git@github.com:obsidianmastery/vault.git
+[submodule "vaults/Gifted.School"]
+	path = vaults/Gifted.School
+	url = git@github.com:giftedschool/vault.git
+[submodule "vaults/Scramjet.io"]
+	path = vaults/Scramjet.io
+	url = git@github.com:scramjetio/vault.git
+[submodule "Organizer"]
+	path = Organizer
+	url = git@github.com:wporganizer/vault.git
+[submodule "ObsidianMaster.com"]
+	path = ObsidianMaster.com
+	url = git@github.com:ObsidianMastery/vault.git
+[submodule "Vaults/DataKaiju.com"]
+	path = Vaults/DataKaiju.com
+	url = git@github.com:datakaiju/vault.git
+[submodule "Courses/Stanford Machine Learning"]
+	path = Courses/Stanford Machine Learning
+	url = git@github.com:dylan-wu/course-stanford-machine-learning-coursera.git

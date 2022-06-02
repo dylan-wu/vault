@@ -1,0 +1,20 @@
+- Data Architect
+- AI, NLP
+    - FastAI
+    - Stanford AI Course
+- SELF School
+- SaaS Builder
+    - SCRAMJET
+    - ChallengeDash
+    - Live Chat
+- Master Curator
+    - Creator Economy
+    - Homemade Style
+    - Million Dollar Tube
+    - PolitBurrito
+    - CSS Generator
+    - Data Kaiju
+    - Data Theory
+    - Data Wrangling
+    - WTFoss
+- Indie Science
