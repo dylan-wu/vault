@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/06-03-2022.md",
+            "file": "Tasks.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/06-03-2022.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Todo.md",
     "Daily/06-03-2022.md",
     "Daily/06-02-2022.md",
     "Content/Runway/06-02-2022.md",
@@ -96,8 +98,6 @@
     "Organizer/Notes/HEY UI Feature Design.md",
     "Organizer/README.md",
     "Vaults/WPOrganizer.com/Shape/Untitled.md",
-    "Daily/Untitled Kanban.md",
-    "Daily/Task Structure.md",
-    "Daily/06-01-2022.md"
+    "Daily/Untitled Kanban.md"
   ]
 }
