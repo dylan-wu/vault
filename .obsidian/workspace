@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks.md",
+            "file": "ObsidianMastery.com/Notes/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "ObsidianMastery.com/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Notes/Untitled.md",
     "Tasks.md",
     "ObsidianMastery.com/Notes/Shape - Explore using KanBan to do content calendar and authoring.md",
     "ObsidianMastery.com/Notes/Plugin Collapse All.md",
@@ -97,7 +98,6 @@
     "ObsidianMastery.com/Inbox/README.md",
     "README.md",
     "ObsidianMastery.com/README.md",
-    "Vaults/ObsidianMastery.com/Inbox/README.md",
-    "Organizer/Notes/PlainEnglish.io.md"
+    "Vaults/ObsidianMastery.com/Inbox/README.md"
   ]
 }
