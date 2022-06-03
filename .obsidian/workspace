@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vaults/WTFoss.com/Inbox/List - Open Source as a Business.md",
+            "file": "Organizer/Notes/Site Template.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vaults/WTFoss.com/Inbox/List - Open Source as a Business.md",
+                "file": "Organizer/Notes/Site Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Organizer/Notes/Site Template.md",
     "Vaults/WTFoss.com/Inbox/List - Open Source as a Business.md",
     "Vaults/WTFoss.com/Inbox/List - How to Build an Open Source Business.md",
     "Vaults/WTFoss.com/Inbox/List - Making a Link Shortener for FREE with NextJS, Prisma, PlanetScale, Typescript, Edge Functions and more.md",
@@ -97,7 +98,6 @@
     "ObsidianMastery.com/Notes/TfTHacker.md",
     "ObsidianMastery.com/Notes/Task - Set Up Beta Branch With Netlify and Cloud Flare.md",
     "Organizer/Notes/Task - zART-Stack.md",
-    "Organizer/Notes/40 Questions.md",
-    "Organizer/Notes/Task - Create SOP for deploying brand new blog with template.md"
+    "Organizer/Notes/40 Questions.md"
   ]
 }
