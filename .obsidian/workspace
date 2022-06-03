@@ -7,8 +7,10 @@
         "id": "ec4c844f46217393",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20220602083552.png"
+          }
         }
       }
     ],
@@ -36,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20220601164100",
+                "query": "20220602083326",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pasted image 20220602083552.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +87,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Pasted image 20220602083552.png",
+    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice II - Learning Rate.md",
+    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/images/Pasted image 20220602083326.png",
+    "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/Application.md",
+    "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/images/Pasted image 20220601164758.png",
+    "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/images/Pasted image 20220601164604.png",
     "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/Untitled.md",
     "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/README.md",
     "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/images/Pasted image 20220601164100.png",
-    "Notes/Add secret token in GitHub action workflows.md",
-    "Notes/images/Pasted image 20220601152143.png",
-    "Tasks.md",
-    "Vaults/DataKaiju.com/Pitch/Create documentation and explore stoplight.md",
-    "Organizer/Notes/Site Template.md",
-    "Daily/06-03-2022.md",
-    "Todo.md"
+    "Notes/Add secret token in GitHub action workflows.md"
   ]
 }
