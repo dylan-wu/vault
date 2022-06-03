@@ -4,5 +4,6 @@
   "promptDelete": false,
   "readableLineLength": false,
   "attachmentFolderPath": "./images",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true
 }
