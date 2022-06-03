@@ -7,8 +7,12 @@
         "id": "ec4c844f46217393",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ObsidianMastery.com/Notes/TfTHacker.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ObsidianMastery.com/Notes/TfTHacker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Organizer/Notes/Task - Hand.md",
     "ObsidianMastery.com/Notes/TfTHacker.md",
+    "Organizer/Notes/Task - Hand.md",
     "ObsidianMastery.com/Notes/Task - Minimum workflow to add something to obsidian and have it show up on the website.md",
     "ObsidianMastery.com/Notes/Shape - Explore using KanBan to do content calendar and authoring.md",
     "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
