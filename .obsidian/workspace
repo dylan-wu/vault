@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks.md",
+            "file": "Organizer/Notes/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Organizer/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Organizer/Notes/Untitled.md",
     "Tasks.md",
     "Organizer/Diary/template.md",
     "Organizer/Diary/README.md",
@@ -97,7 +98,6 @@
     "Organizer/Notes/Site Template.md",
     "Vaults/WTFoss.com/Inbox/List - How to Build an Open Source Business.md",
     "Vaults/WTFoss.com/Inbox/List - Making a Link Shortener for FREE with NextJS, Prisma, PlanetScale, Typescript, Edge Functions and more.md",
-    "Vaults/WTFoss.com/Inbox/List - First look at Convex with Sujay Jayakar (Co-Founder).md",
-    "Vaults/WTFoss.com/Notes/README.md"
+    "Vaults/WTFoss.com/Inbox/List - First look at Convex with Sujay Jayakar (Co-Founder).md"
   ]
 }
