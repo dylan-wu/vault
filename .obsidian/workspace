@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Pasted image 20220602083552.png"
+            "file": "Pasted image 20220602090606.png"
           }
         }
       }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20220602083326",
+                "query": "20220602090552",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220602083552.png",
+                "file": "Pasted image 20220602090606.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Pasted image 20220602083552.png",
+    "Pasted image 20220602090606.png",
+    "Courses/Stanford Machine Learning/Week 2/Linear Regression with Multiple Variables.md",
+    "Courses/Stanford Machine Learning/Week 2/images/Pasted image 20220602090552.png",
+    "Courses/Stanford Machine Learning/Week 2/images/Pasted image 20220602090534.png",
+    "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/images/Pasted image 20220602083552.png",
     "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/Gradient Descent in Practice II - Learning Rate.md",
     "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/images/Pasted image 20220602083326.png",
     "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/Application.md",
     "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/images/Pasted image 20220601164758.png",
-    "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/images/Pasted image 20220601164604.png",
-    "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/Untitled.md",
-    "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/README.md",
-    "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/images/Pasted image 20220601164100.png",
-    "Notes/Add secret token in GitHub action workflows.md"
+    "Vaults/DataKaiju.com/Shapes/Cobalt Intelligence/images/Pasted image 20220601164604.png"
   ]
 }
