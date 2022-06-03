@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/06-03-2022.md",
+            "file": "Tasks.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/06-03-2022.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Daily/06-03-2022.md",
     "Tasks.md",
+    "Daily/06-03-2022.md",
     "Todo.md",
     "Vaults/DataKaiju.com/Pitch/Create documentation and explore stoplight.md",
     "Vaults/DataKaiju.com/Pitch/06-03-2022.md",
