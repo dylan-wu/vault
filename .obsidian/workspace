@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks.md",
+            "file": "Todo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Todo.md",
+    "Daily/06-03-2022.md",
     "Tasks.md",
     "Vaults/DataKaiju.com/Pitch/Create documentation and explore stoplight.md",
     "Vaults/DataKaiju.com/Pitch/06-03-2022.md",
     "Vaults/SelfSchool.org/~/archives/My 2021 Comprehensive Obsidian Zettelkasten Workflow.md",
     "Organizer/Notes/RunwayML.md",
     "Organizer/Notes/HEY UI Feature Design.md",
-    "Daily/06-03-2022.md",
     "Daily/06-02-2022.md",
-    "Todo.md",
     "Content/Runway/06-02-2022.md"
   ]
 }
