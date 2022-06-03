@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Notes/Plugin Collapse All.md",
+            "file": "Organizer/Notes/Task - Function returns unsplash image search based from string and returns image url.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Notes/Plugin Collapse All.md",
+                "file": "Organizer/Notes/Task - Function returns unsplash image search based from string and returns image url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "ObsidianMastery.com/Notes/Plugin Collapse All.md",
-    "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
     "Organizer/Notes/Task - Function returns unsplash image search based from string and returns image url.md",
+    "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
+    "ObsidianMastery.com/Notes/Plugin Collapse All.md",
     "ObsidianMastery.com/Notes/Filipe Donadio.md",
     "ObsidianMastery.com/Notes/Create a movie database.md",
     "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
