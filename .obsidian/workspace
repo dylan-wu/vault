@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizer/Notes/Task - Function returns unsplash image search based from string and returns image url.md",
+            "file": "ObsidianMastery.com/Notes/Plugin Collapse All.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizer/Notes/Task - Function returns unsplash image search based from string and returns image url.md",
+                "file": "ObsidianMastery.com/Notes/Plugin Collapse All.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Notes/Plugin Collapse All.md",
+    "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
     "Organizer/Notes/Task - Function returns unsplash image search based from string and returns image url.md",
     "ObsidianMastery.com/Notes/Filipe Donadio.md",
-    "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
     "ObsidianMastery.com/Notes/Create a movie database.md",
     "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
     "ObsidianMastery.com/Notes/Plugin Templater.md",
     "Tasks.md",
     "Organizer/Notes/Site Template.md",
-    "ObsidianMastery.com/Notes/Task - Minimum workflow to add something to obsidian and have it show up on the website.md",
-    "ObsidianMastery.com/Notes/Shape - Explore using KanBan to do content calendar and authoring.md"
+    "ObsidianMastery.com/Notes/Task - Minimum workflow to add something to obsidian and have it show up on the website.md"
   ]
 }
