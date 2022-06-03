@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Notes/TfTHacker.md",
+            "file": "ObsidianMastery.com/Notes/Task - Set Up Beta Branch With Netlify and Cloud Flare.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Notes/TfTHacker.md",
+                "file": "ObsidianMastery.com/Notes/Task - Set Up Beta Branch With Netlify and Cloud Flare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Notes/Task - Set Up Beta Branch With Netlify and Cloud Flare.md",
     "ObsidianMastery.com/Notes/TfTHacker.md",
     "Organizer/Notes/Task - Hand.md",
     "ObsidianMastery.com/Notes/Task - Minimum workflow to add something to obsidian and have it show up on the website.md",
@@ -97,7 +98,6 @@
     "ObsidianMastery.com/Notes/Plugin Templater.md",
     "ObsidianMastery.com/Notes/Plugin Tasks.md",
     "ObsidianMastery.com/Notes/Plugin Remotely Save.md",
-    "ObsidianMastery.com/Notes/Plugin QuickAdd.md",
-    "ObsidianMastery.com/Notes/Plugin Path Title.md"
+    "ObsidianMastery.com/Notes/Plugin QuickAdd.md"
   ]
 }
