@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizer/Notes/PlainEnglish.io.md",
+            "file": "Tasks.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizer/Notes/PlainEnglish.io.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Organizer/Notes/PlainEnglish.io.md",
     "Tasks.md",
+    "Organizer/Notes/PlainEnglish.io.md",
     "Courses/Stanford Machine Learning/Week 3/1. Classification Representation/Hypothesis Representation.md",
     "Courses/Stanford Machine Learning/Week 3/1. Classification Representation/Classification.md",
     "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/Normal Equation Noninvertibility.md",
