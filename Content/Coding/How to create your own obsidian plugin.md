@@ -24,4 +24,11 @@ git clone <paste the url here>
 
 Now you can finally open the Folder with your Code Editor.
 
-## Without Git and Github
+### Without Git and Github
+
+If you don’t plan on publishing your Plugin or don’t have a GitHub Account, you can also just download and unpack the Sample Plugin as a ZIP Archive:
+
+![[Pasted image 20220605165252.png | 750]]
+
+Now you can finally open the Folder with your Code Editor, too.
+
