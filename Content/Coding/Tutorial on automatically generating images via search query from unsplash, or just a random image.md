@@ -1,1 +1,1 @@
-Unsplash already has a method for you to attain a 
+Unsplash already has a method for you to attain an image via link. Just go to 
