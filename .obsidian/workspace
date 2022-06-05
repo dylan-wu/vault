@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Cost Function.md",
+            "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Cost Function.md",
+                "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Untitled.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Cost Function.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/1. Classification Representation/Decision Boundary.md",
     "ObsidianMastery.com/Notes/Task - Set Up Beta Branch With Netlify and Cloud Flare.md",
@@ -97,7 +98,6 @@
     "ObsidianMastery.com/Notes/Task - Minimum workflow to add something to obsidian and have it show up on the website.md",
     "ObsidianMastery.com/Notes/Shape - Explore using KanBan to do content calendar and authoring.md",
     "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
-    "ObsidianMastery.com/Notes/Plugin Templater.md",
-    "ObsidianMastery.com/Notes/Plugin Tasks.md"
+    "ObsidianMastery.com/Notes/Plugin Templater.md"
   ]
 }
