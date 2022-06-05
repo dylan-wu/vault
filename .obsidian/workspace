@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+            "file": "Daily/06-03-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+                "file": "Daily/06-03-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Daily/06-03-2022.md",
+    "ObsidianMastery.com/Inbox/Awesome Obsidian.md",
+    "Daily/06-05-2022.md",
     "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
     "Vaults/WPOrganizer.com/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
     "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
     "2022-06-05.md",
     "Tasks.md",
     "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
-    "Organizer/Notes/Task - Create SOP for deploying brand new blog with template.md",
-    "Content/Coding/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
-    "Daily/06-03-2022.md",
-    "Daily/06-05-2022.md"
+    "Organizer/Notes/Task - Create SOP for deploying brand new blog with template.md"
   ]
 }
