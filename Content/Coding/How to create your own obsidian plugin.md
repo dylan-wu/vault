@@ -35,3 +35,6 @@ Now you can finally open the Folder with your Code Editor, too.
 ### Compiling and running the Plugin
 
 There are a lot of files already, but only three of them really matter right now.
+
+- `main.ts` File, which contains the plugin's code.
+- `styles.css` File, which contains a corresponding Style Sheet
