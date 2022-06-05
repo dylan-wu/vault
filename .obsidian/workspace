@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Notes/Plugin Collapse All.md",
+            "file": "ObsidianMastery.com/Notes/Task - Set Up Beta Branch With Netlify and Cloud Flare.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Notes/Plugin Collapse All.md",
+                "file": "ObsidianMastery.com/Notes/Task - Set Up Beta Branch With Netlify and Cloud Flare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "ObsidianMastery.com/Notes/Plugin Collapse All.md",
-    "ObsidianMastery.com/Notes/How to use git submodules to work with multiple obsidian vaults.md",
-    "ObsidianMastery.com/Notes/Filipe Donadio.md",
-    "ObsidianMastery.com/Notes/Create a movie database.md",
-    "ObsidianMastery.com/Notes/~Easy Plugins.md",
-    "ObsidianMastery.com/Notes/Plugin Livesync.md",
-    "Daily/06-05-2022.md",
-    "Daily/06-03-2022.md",
-    "Organizer/Notes/Task - Create tutorial using astro on how to 
+    "ObsidianMastery.com/Notes/Task - Set Up Beta Branch With Netlify and Cloud Flare.md",
+    "ObsidianMastery.com/Notes/TfTHacker.md",
+    "ObsidianMastery.com/Notes/Task - Gitscrape Obsidian Plugins Page.md",
+    "ObsidianMastery.com/Notes/Task - Minimum workflow to add something to obsidian and have it show up on the website.md",
+    "ObsidianMastery.com/Notes/Shape - Explore using KanBan to do content calendar and authoring.md",
+    "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
+    "ObsidianMastery.com/Notes/Plugin Templater.md",
+    "ObsidianMastery.com/Notes/Plugin Tasks.md",
+    "ObsidianMastery.com/Notes/Plugin Remotely Save.md",
+    "ObsidianMastery.com/Notes/Plugin QuickAdd.md"
+  ]
+}
