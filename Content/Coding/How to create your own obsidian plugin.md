@@ -32,3 +32,6 @@ If you don’t plan on publishing your Plugin or don’t have a GitHub Account, 
 
 Now you can finally open the Folder with your Code Editor, too.
 
+### Compiling and running the Plugin
+
+There are a lot of files already, but only three of them really matter right now.
