@@ -43,9 +43,6 @@
 [submodule "vaults/Indie.Science"]
 	path = Vaults/Indie.Science
 	url = git@github.com:indiescience/vault.git
-[submodule "vaults/WPOrganizer.com"]
-	path = Vaults/WPOrganizer.com
-	url = git@github.com:wporganizer/vault.git
 [submodule "vaults/OneHour.Biz"]
 	path = Vaults/OneHour.Biz
 	url = git@github.com:onehourbiz/vault.git
@@ -85,9 +82,6 @@
 [submodule "vaults/Frontend.School"]
 	path = Vaults/Frontend.School
 	url = git@github.com:frontenddotschool/vault.git
-[submodule "vaults/WPOrganizer"]
-	path = Vaults/WPOrganizer
-	url = git@github.com:wporganizer/vault.git
 [submodule "vaults/ObsidianMastery.com"]
 	path = Vaults/ObsidianMastery.com
 	url = git@github.com:obsidianmastery/vault.git

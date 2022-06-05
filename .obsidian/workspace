@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+            "file": "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+                "file": "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +90,9 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
-    "Vaults/WPOrganizer.com/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
     "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+    "Vaults/WPOrganizer.com/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+    "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
     "2022-06-05.md",
     "Tasks.md",
     "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
