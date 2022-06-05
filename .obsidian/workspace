@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks.md",
+            "file": "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+    "2022-06-05.md",
     "Tasks.md",
     "Daily/06-03-2022.md",
     "Daily/06-05-2022.md",
@@ -96,8 +98,6 @@
     "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch video game data into your vault using IGDB!.md",
     "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md",
     "ObsidianMastery.com/Inbox/Adapt - Creating a content calendar in Obsidian.md",
-    "ObsidianMastery.com/Inbox/Mermaid Create diagrams quickly and effortlessly.md",
-    "Notes/Add secret token in GitHub action workflows.md",
-    "Vaults/WPOrganizer.com/Diary/README.md"
+    "ObsidianMastery.com/Inbox/Mermaid Create diagrams quickly and effortlessly.md"
   ]
 }
