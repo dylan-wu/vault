@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
+            "file": "Tasks.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
     "Tasks.md",
+    "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
     "Organizer/Notes/Task - Create SOP for deploying brand new blog with template.md",
     "Vaults/WPOrganizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
     "Content/Coding/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
