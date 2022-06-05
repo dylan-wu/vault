@@ -1,1 +1,1 @@
-Unsplash has a 
+Unsplash already has a method for you to attain a 
