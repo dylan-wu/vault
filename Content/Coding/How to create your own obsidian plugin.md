@@ -1,1 +1,1 @@
-So, you want to create an obsidian plugin
+In order to create an obsidian plugin, you need to have NodeJS installed, 
