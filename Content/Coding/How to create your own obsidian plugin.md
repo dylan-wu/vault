@@ -38,3 +38,6 @@ There are a lot of files already, but only three of them really matter right now
 
 - `main.ts` File, which contains the plugin's code.
 - `styles.css` File, which contains a corresponding Style Sheet
+- `manifest.json` File, which contains important information, like the version and name of the plugin.
+
+You can already go 
