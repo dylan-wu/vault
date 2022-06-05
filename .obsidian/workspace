@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+            "file": "Daily/06-05-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
+                "file": "Daily/06-05-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Daily/06-05-2022.md",
+    "Daily/06-03-2022.md",
     "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
     "Tasks.md",
     "Organizer/Diary/template.md",
     "Organizer/Diary/README.md",
-    "Daily/06-03-2022.md",
     "Vaults/WTFoss.com/Inbox/List - Open Source as a Business.md",
     "Organizer/Notes/Site Template.md",
     "Vaults/WTFoss.com/Inbox/List - How to Build an Open Source Business.md",
-    "Vaults/WTFoss.com/Inbox/List - Making a Link Shortener for FREE with NextJS, Prisma, PlanetScale, Typescript, Edge Functions and more.md",
-    "Vaults/WTFoss.com/Inbox/List - First look at Convex with Sujay Jayakar (Co-Founder).md"
+    "Vaults/WTFoss.com/Inbox/List - Making a Link Shortener for FREE with NextJS, Prisma, PlanetScale, Typescript, Edge Functions and more.md"
   ]
 }
