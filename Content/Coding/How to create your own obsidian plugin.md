@@ -40,5 +40,5 @@ There are a lot of files already, but only three of them really matter right now
 - `styles.css` File, which contains a corresponding Style Sheet
 - `manifest.json` File, which contains important information, like the version and name of the plugin.
 
-Obsidian cannot execute TypeScript files directly.
+Obsidian cannot execute TypeScript files directly, you'll have to compile them into JS first.
 
