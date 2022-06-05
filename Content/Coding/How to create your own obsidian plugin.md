@@ -16,3 +16,12 @@ Once you have your own Repository set up, just copy the following URL:
 
 ![[Pasted image 20220605165034.png | 750]]
 
+Afterwards, you can clone the Repository locally using the following shell command. Just make sure you are in the correct Directory you want your Plugin to live in.
+
+```bash
+git clone <paste the url here>
+```
+
+Now you can finally open the Folder with your Code Editor.
+
+## Without Git and Github
