@@ -1,3 +1,11 @@
+---
+title: How to create your own obsidian plugin
+tags: [video e]
+publish: true
+image: 
+description: 
+---
+
 Runway is an all in one, online video editor, that allows real-time collaboration so you can share projects and assets with just a single click.
 
 Runway has a collection of customizable video templates and examples to easily create stunning videos in a matter of minutes.
