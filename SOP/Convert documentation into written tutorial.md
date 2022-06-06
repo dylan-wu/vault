@@ -11,3 +11,6 @@ Take for example https://fly.io/docs/
 
 For example, here, the most important things are how to install and log-in to fly, then, setting it up with your relevant platform.
 
+Then, the next thing is to 
+
+3. 
