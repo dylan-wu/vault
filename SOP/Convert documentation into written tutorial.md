@@ -9,4 +9,5 @@ Take for example https://fly.io/docs/
 
 2. Write and summarize/simplify the essential prerequisites
 
-For example, here, the most important things are how to install and log-in to fly, then 
+For example, here, the most important things are how to install and log-in to fly, then, setting it up with your relevant platform.
+
