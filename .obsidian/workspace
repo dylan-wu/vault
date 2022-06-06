@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Notes/Plugin Tasks.md",
+            "file": "ObsidianMastery.com/Notes/Plugin Kanban.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Notes/Plugin Tasks.md",
+                "file": "ObsidianMastery.com/Notes/Plugin Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Notes/Plugin Kanban.md",
     "ObsidianMastery.com/Notes/Plugin Tasks.md",
     "ObsidianMastery.com/Notes/Plugin Templater.md",
     "ObsidianMastery.com/Notes/Plugin Day Planner.md",
@@ -97,7 +98,6 @@
     "ObsidianMastery.com/Inbox/Plugin API FAQ by Liam Cain.md",
     "ObsidianMastery.com/Inbox/Awesome Obsidian.md",
     "ObsidianMastery.com/Inbox/Beta Reviewers Auto-update Tester.md",
-    "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch video game data into your vault using IGDB!.md",
-    "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md"
+    "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch video game data into your vault using IGDB!.md"
   ]
 }
