@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vaults/Indie.Science/Notes/Paleobiodb.md",
+            "file": "Vaults/DataKaiju.com/Inbox/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vaults/Indie.Science/Notes/Paleobiodb.md",
+                "file": "Vaults/DataKaiju.com/Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Vaults/DataKaiju.com/Inbox/Untitled.md",
+    "Vaults/DataKaiju.com/Inbox/Demo - US cities to Astro site.md",
     "Vaults/Indie.Science/Notes/Paleobiodb.md",
     "Vaults/Indie.Science/Notes/Paleo Atlas.md",
     "Vaults/SelfSchool.org/shapeup/Indie Science.md",
@@ -96,8 +98,6 @@
     "Vaults/Indie.Science/Notes/How to use Macrostrat's map interface.md",
     "Vaults/Indie.Science/Notes/Ancient Earth Globe.md",
     "Vaults/Indie.Science/Notes/xDD.md",
-    "ObsidianMastery.com/Notes/Kanban for plugins.md",
-    "ObsidianMastery.com/Notes/Plugin Kanban.md",
-    "ObsidianMastery.com/Notes/Plugin Day Planner.md"
+    "ObsidianMastery.com/Notes/Kanban for plugins.md"
   ]
 }
