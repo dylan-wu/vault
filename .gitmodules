@@ -115,3 +115,6 @@
 [submodule "Vaults/WriteToEarn"]
 	path = Vaults/WriteToEarn
 	url = git@github.com:writetoearn/vault.git
+[submodule "SELFSchool"]
+	path = SELFSchool
+	url = git@github.com:SELFSchool/vault.git

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vaults/Indie.Science/Notes/xDD.md",
+            "file": "SELFSchool/$Inbox/Python for Machine Learning (7-day mini-course).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vaults/Indie.Science/Notes/xDD.md",
+                "file": "SELFSchool/$Inbox/Python for Machine Learning (7-day mini-course).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "SELFSchool/$Inbox/Python for Machine Learning (7-day mini-course).md",
+    "SELFSchool/Untitled.md",
     "Vaults/Indie.Science/Notes/xDD.md",
     "Vaults/Indie.Science/Notes/Paleomap.md",
     "Vaults/Indie.Science/Notes/Paleobiodb.md",
@@ -96,8 +98,6 @@
     "Vaults/DataKaiju.com/Inbox/Demo - US cities to Astro site.md",
     "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md",
     "Vaults/DataKaiju.com/Inbox/Untitled.md",
-    "Vaults/SelfSchool.org/shapeup/Indie Science.md",
-    "Vaults/Indie.Science/Notes/Macrostrat.md",
-    "Vaults/Indie.Science/Notes/How to use Macrostrat's map interface.md"
+    "Vaults/SelfSchool.org/shapeup/Indie Science.md"
   ]
 }
