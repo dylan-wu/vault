@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Simplified Cost Function and Gradient Descent.md",
+            "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Advanced Optimization.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Simplified Cost Function and Gradient Descent.md",
+                "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Advanced Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Advanced Optimization.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Simplified Cost Function and Gradient Descent.md",
     "Daily/06-06-2022.md",
     "Content/Coding/How to create your own obsidian plugin.md",
@@ -97,7 +98,6 @@
     "Daily/06-02-2022.md",
     "Daily/06-03-2022.md",
     "ObsidianMastery.com/Inbox/Awesome Obsidian.md",
-    "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md",
-    "Vaults/WPOrganizer.com/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md"
+    "Organizer/Notes/Task - Create tutorial using astro on how to create automatically generated blog post thumbnails pulled from unsplash.md"
   ]
 }
