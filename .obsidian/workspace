@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md",
+            "file": "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch video game data into your vault using IGDB!.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md",
+                "file": "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch video game data into your vault using IGDB!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch video game data into your vault using IGDB!.md",
     "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md",
     "ObsidianMastery.com/Inbox/How I'm able to take notes in mathematics lectures using LaTeX and Vim.md",
     "ObsidianMastery.com/Inbox/How to create your own Obsidian Plugin.md",
@@ -97,7 +98,6 @@
     "Tasks.md",
     "Vaults/CssGenerator.co/Site/README.md",
     "Organizer/Notes/PlainEnglish.io.md",
-    "Daily/06-02-2022.md",
-    "SOP/Convert documentation into written tutorial.md"
+    "Daily/06-02-2022.md"
   ]
 }
