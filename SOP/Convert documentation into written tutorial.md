@@ -12,5 +12,3 @@ Take for example https://fly.io/docs/
 For example, here, the most important things are how to install and log-in to fly, then, setting it up with your relevant platform.
 
 Then, the next thing is to break down each chapter and write the most important points.
-
-3. 
