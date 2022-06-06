@@ -1,3 +1,9 @@
+---
+title: How to create your own obsidian plugin
+tags: [coding]
+publish: true
+---
+
 ## Getting things set up
 
 In order to create an obsidian plugin, you need to have NodeJS installed, as well as a code editor.
