@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SOP/Wr.md",
+            "file": "SOP/Convert documentation into written tutorial.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOP/Wr.md",
+                "file": "SOP/Convert documentation into written tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "SOP/Wr.md",
+    "SOP/Convert documentation into written tutorial.md",
     "Daily/06-06-2022.md",
     "Content/Reduct/README.md",
     "Content/Runway Introduction.md",
