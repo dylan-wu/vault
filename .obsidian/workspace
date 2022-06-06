@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Python for Machine Learning/README.md",
+            "file": "Courses/Python for Machine Learning/1. Manipulating Lists/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Python for Machine Learning/README.md",
+                "file": "Courses/Python for Machine Learning/1. Manipulating Lists/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Courses/Python for Machine Learning/1. Manipulating Lists/Untitled.md",
     "Courses/Python for Machine Learning/README.md",
     "SELFSchool/$Inbox/Python for Machine Learning (7-day mini-course).md",
     "SELFSchool/Untitled.md",
@@ -105,7 +106,6 @@
     "Vaults/Indie.Science/Notes/Paleobiodb.md",
     "Vaults/Indie.Science/Notes/Paleo Atlas.md",
     "Vaults/DataKaiju.com/Inbox/Demo - US cities to Astro site.md",
-    "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md",
-    "Vaults/DataKaiju.com/Inbox/Untitled.md"
+    "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md"
   ]
 }
