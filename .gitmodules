@@ -106,3 +106,12 @@
 [submodule "Vaults/OwnYourLearning.co"]
 	path = Vaults/OwnYourLearning.co
 	url = git@github.com:OwnYourLearning/vault.git
+[submodule "Vaults/HistoryAtlas.co"]
+	path = Vaults/HistoryAtlas.co
+	url = git@github.com:HistoryAtlas/vault.git
+[submodule "Vaults/NicheFi"]
+	path = Vaults/NicheFi
+	url = git@github.com:NicheFi/vault.git
+[submodule "Vaults/WriteToEarn"]
+	path = Vaults/WriteToEarn
+	url = git@github.com:writetoearn/vault.git
