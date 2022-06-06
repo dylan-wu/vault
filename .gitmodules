@@ -118,3 +118,6 @@
 [submodule "SELFSchool"]
 	path = SELFSchool
 	url = git@github.com:SELFSchool/vault.git
+[submodule "Courses/Python for Machine Learning"]
+	path = Courses/Python for Machine Learning
+	url = git@github.com:SELFSchool/course-python-for-machine-learning.git

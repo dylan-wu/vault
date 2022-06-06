@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SELFSchool/$Inbox/Python for Machine Learning (7-day mini-course).md",
+            "file": "Courses/Python for Machine Learning/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SELFSchool/$Inbox/Python for Machine Learning (7-day mini-course).md",
+                "file": "Courses/Python for Machine Learning/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Courses/Python for Machine Learning/README.md",
     "SELFSchool/$Inbox/Python for Machine Learning (7-day mini-course).md",
     "SELFSchool/Untitled.md",
     "Vaults/Indie.Science/Notes/xDD.md",
@@ -97,7 +98,6 @@
     "Vaults/Indie.Science/Notes/Paleo Atlas.md",
     "Vaults/DataKaiju.com/Inbox/Demo - US cities to Astro site.md",
     "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md",
-    "Vaults/DataKaiju.com/Inbox/Untitled.md",
-    "Vaults/SelfSchool.org/shapeup/Indie Science.md"
+    "Vaults/DataKaiju.com/Inbox/Untitled.md"
   ]
 }
