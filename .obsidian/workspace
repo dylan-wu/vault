@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vaults/Indie.Science/Notes/Paleomap.md",
+            "file": "Vaults/Indie.Science/Notes/xDD.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vaults/Indie.Science/Notes/Paleomap.md",
+                "file": "Vaults/Indie.Science/Notes/xDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Vaults/Indie.Science/Notes/xDD.md",
     "Vaults/Indie.Science/Notes/Paleomap.md",
     "Vaults/Indie.Science/Notes/Paleobiodb.md",
     "Vaults/Indie.Science/Notes/Paleo Atlas.md",
@@ -97,7 +98,6 @@
     "Vaults/DataKaiju.com/Inbox/Untitled.md",
     "Vaults/SelfSchool.org/shapeup/Indie Science.md",
     "Vaults/Indie.Science/Notes/Macrostrat.md",
-    "Vaults/Indie.Science/Notes/How to use Macrostrat's map interface.md",
-    "Vaults/Indie.Science/Notes/Ancient Earth Globe.md"
+    "Vaults/Indie.Science/Notes/How to use Macrostrat's map interface.md"
   ]
 }
