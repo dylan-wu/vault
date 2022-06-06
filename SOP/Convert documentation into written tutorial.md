@@ -9,4 +9,4 @@ Take for example https://fly.io/docs/
 
 2. Write and summarize/simplify the essential prerequisites
 
-For example, 
+For example, here, the most important things are how to install and log-in to fly, then 
