@@ -1,6 +1,6 @@
 ---
-title: How to create your own obsidian plugin
-tags: [video e]
+title: Runway Introduction
+tags: [video production, runway, tutorial]
 publish: true
 image: 
 description: 

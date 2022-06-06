@@ -1,5 +1,5 @@
 ---
-title: How to create your own obsidian plugin
+title: Automatically generate unsplash images for your blog or website
 tags: [coding]
 publish: true
 image: 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Content/Runway/Runway Introduction.md",
+            "file": "Content/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/Runway/Runway Introduction.md",
+                "file": "Content/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Content/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
+    "Content/How to create your own obsidian plugin.md",
     "Content/Runway/Runway Introduction.md",
     "Content/Reduct/README.md",
-    "Content/How to create your own obsidian plugin.md",
-    "Content/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
     "Daily/06-06-2022.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/Course NLP.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/README.md",
