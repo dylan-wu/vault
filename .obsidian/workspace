@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Notes/Plugin Collapse All.md",
+            "file": "ObsidianMastery.com/Notes/Plugin Day Planner.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Notes/Plugin Collapse All.md",
+                "file": "ObsidianMastery.com/Notes/Plugin Day Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Notes/Plugin Day Planner.md",
     "ObsidianMastery.com/Notes/Plugin Collapse All.md",
     "ObsidianMastery.com/Inbox/Plugin Pandoc.md",
     "ObsidianMastery.com/Inbox/Plugin API FAQ by Liam Cain.md",
@@ -97,7 +98,6 @@
     "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch video game data into your vault using IGDB!.md",
     "ObsidianMastery.com/Inbox/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md",
     "ObsidianMastery.com/Inbox/How I'm able to take notes in mathematics lectures using LaTeX and Vim.md",
-    "ObsidianMastery.com/Inbox/How to create your own Obsidian Plugin.md",
-    "Daily/06-06-2022.md"
+    "ObsidianMastery.com/Inbox/How to create your own Obsidian Plugin.md"
   ]
 }
