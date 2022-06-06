@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/README.md",
+            "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/Course NLP.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/README.md",
+                "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/Course NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/Course NLP.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/README.md",
     "Daily/06-06-2022.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Simplified Cost Function and Gradient Descent.md",
@@ -97,7 +98,6 @@
     "Content/Coding/How to create your own obsidian plugin.md",
     "ObsidianMastery.com/Inbox/How to create your own Obsidian Plugin.md",
     "ObsidianMastery.com/Inbox/golangexample.com.md",
-    "Daily/06-02-2022.md",
-    "Daily/06-03-2022.md"
+    "Daily/06-02-2022.md"
   ]
 }
