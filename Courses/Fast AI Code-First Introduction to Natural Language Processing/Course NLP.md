@@ -43,3 +43,5 @@ To start, focus on what things DO, not what they ARE.
 
 ## A changing field
 
+### Case study: spell checkers
+
