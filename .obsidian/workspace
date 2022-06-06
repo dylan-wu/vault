@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Multiclass Classification One-vs-all.md",
+            "file": "Daily/06-06-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Multiclass Classification One-vs-all.md",
+                "file": "Daily/06-06-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Multiclass Classification One-vs-all.md",
-    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Advanced Optimization.md",
-    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Simplified Cost Function and Gradient Descent.md",
     "Daily/06-06-2022.md",
+    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Simplified Cost Function and Gradient Descent.md",
+    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Advanced Optimization.md",
+    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Multiclass Classification One-vs-all.md",
     "Content/Coding/How to create your own obsidian plugin.md",
     "ObsidianMastery.com/Inbox/How to create your own Obsidian Plugin.md",
     "ObsidianMastery.com/Inbox/golangexample.com.md",
