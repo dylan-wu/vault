@@ -1,0 +1,1 @@
+https://github.com/artisticat1/obsidian-latex-suite
