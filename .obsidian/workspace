@@ -7,11 +7,9 @@
         "id": "ec4c844f46217393",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "ObsidianMastery.com/Notes/Plugin Kanban.md",
-            "mode": "source",
-            "source": false
+            "file": "ObsidianMastery.com/Notes/Kanban for plugins.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Notes/Plugin Kanban.md",
+                "file": "ObsidianMastery.com/Notes/Kanban for plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +87,12 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Notes/Kanban for plugins.md",
     "ObsidianMastery.com/Notes/Plugin Kanban.md",
     "ObsidianMastery.com/Notes/Plugin Day Planner.md",
     "ObsidianMastery.com/Notes/Plugin Dataview.md",
     "ObsidianMastery.com/Notes/Plugin Tasks.md",
     "ObsidianMastery.com/Notes/Plugin Templater.md",
-    "ObsidianMastery.com/Notes/Untitled Kanban.md",
     "ObsidianMastery.com/Notes/Plugin Collapse All.md",
     "ObsidianMastery.com/Inbox/Plugin Pandoc.md",
     "ObsidianMastery.com/Inbox/Plugin API FAQ by Liam Cain.md",
