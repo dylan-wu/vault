@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks.md",
+            "file": "Daily/06-06-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily/06-06-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
-    "Tasks.md",
-    "Daily/06-02-2022.md",
     "Daily/06-06-2022.md",
+    "Daily/06-03-2022.md",
+    "Tasks.md",
+    "Vaults/CssGenerator.co/Site/README.md",
+    "Organizer/Notes/PlainEnglish.io.md",
+    "Daily/06-02-2022.md",
     "SOP/Convert documentation into written tutorial.md",
     "SOP/Write tutorial based off of project.md",
     "Content/Reduct/README.md",
-    "Content/Runway Introduction.md",
-    "Content/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
-    "Content/How to create your own obsidian plugin.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/Course NLP.md"
+    "Content/Runway Introduction.md"
   ]
 }
