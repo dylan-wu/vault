@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vaults/Indie.Science/Notes/Ancient Earth Globe.md",
+            "file": "Vaults/Indie.Science/Notes/Macrostrat.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vaults/Indie.Science/Notes/Ancient Earth Globe.md",
+                "file": "Vaults/Indie.Science/Notes/Macrostrat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Vaults/Indie.Science/Notes/Macrostrat.md",
+    "Vaults/Indie.Science/Notes/How to use Macrostrat's map interface.md",
     "Vaults/Indie.Science/Notes/Ancient Earth Globe.md",
     "Vaults/Indie.Science/Notes/xDD.md",
     "ObsidianMastery.com/Notes/Kanban for plugins.md",
@@ -96,8 +98,6 @@
     "ObsidianMastery.com/Notes/Plugin Day Planner.md",
     "ObsidianMastery.com/Notes/Plugin Dataview.md",
     "ObsidianMastery.com/Notes/Plugin Tasks.md",
-    "ObsidianMastery.com/Notes/Plugin Templater.md",
-    "ObsidianMastery.com/Notes/Plugin Collapse All.md",
-    "ObsidianMastery.com/Inbox/Plugin Pandoc.md"
+    "ObsidianMastery.com/Notes/Plugin Templater.md"
   ]
 }
