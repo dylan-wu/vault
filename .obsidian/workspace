@@ -14,6 +14,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "da6151b2d2045185",
+        "type": "leaf",
+        "state": {
+          "type": "reveal-preview-view",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
