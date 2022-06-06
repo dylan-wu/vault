@@ -2,6 +2,8 @@
 title: How to create your own obsidian plugin
 tags: [coding]
 publish: true
+image: 
+description: 
 ---
 
 ## Getting things set up
