@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/06-06-2022.md",
+            "file": "Daily/06-07-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/06-06-2022.md",
+                "file": "Daily/06-07-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Daily/06-07-2022.md",
     "Daily/06-06-2022.md",
     "Courses/How to take notes in latex/README.md",
     "Courses/Python for Machine Learning/1. Manipulating Lists/Untitled.md",
@@ -97,7 +98,6 @@
     "SELFSchool/Untitled.md",
     "Vaults/Indie.Science/Notes/xDD.md",
     "Vaults/Indie.Science/Notes/Paleomap.md",
-    "Vaults/Indie.Science/Notes/Paleobiodb.md",
-    "Vaults/Indie.Science/Notes/Paleo Atlas.md"
+    "Vaults/Indie.Science/Notes/Paleobiodb.md"
   ]
 }
