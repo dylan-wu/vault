@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/How to take notes in latex/README.md",
+            "file": "Daily/06-06-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/How to take notes in latex/README.md",
+                "file": "Daily/06-06-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Daily/06-06-2022.md",
     "Courses/How to take notes in latex/README.md",
     "Courses/Python for Machine Learning/1. Manipulating Lists/Untitled.md",
     "Courses/Python for Machine Learning/README.md",
@@ -97,7 +98,6 @@
     "Vaults/Indie.Science/Notes/xDD.md",
     "Vaults/Indie.Science/Notes/Paleomap.md",
     "Vaults/Indie.Science/Notes/Paleobiodb.md",
-    "Vaults/Indie.Science/Notes/Paleo Atlas.md",
-    "Vaults/DataKaiju.com/Inbox/Demo - US cities to Astro site.md"
+    "Vaults/Indie.Science/Notes/Paleo Atlas.md"
   ]
 }
