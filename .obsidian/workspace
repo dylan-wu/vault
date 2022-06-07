@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/06-06-2022.md",
+            "file": "Daily/06-07-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/06-06-2022.md",
+                "file": "Daily/06-07-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ec4c844f46217393",
   "lastOpenFiles": [
+    "Daily/06-07-2022.md",
+    "SOP/Convert documentation into written tutorial.md",
     "Daily/06-06-2022.md",
+    "SOP/Write tutorial based off of project.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Simplified Cost Function and Gradient Descent.md",
     "Daily/06-03-2022.md",
     "Daily/06-02-2022.md",
     "Daily/06-01-2022.md",
-    "Daily/06-07-2022.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Multiclass Classification One-vs-all.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/1. What is NLP.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/Course NLP.md",
-    "Courses/Stanford Machine Learning/Week 3/4. Solving the Problem of Overfitting/The Problem of Overfitting.md"
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/1. What is NLP.md"
   ]
 }
