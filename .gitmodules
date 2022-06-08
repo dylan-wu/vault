@@ -121,3 +121,6 @@
 [submodule "Courses/Python for Machine Learning"]
 	path = Courses/Python for Machine Learning
 	url = git@github.com:SELFSchool/course-python-for-machine-learning.git
+[submodule "Courses/Fast AI Code-First Introduction to Natural Language Processing/source"]
+	path = Courses/Fast AI Code-First Introduction to Natural Language Processing/source
+	url = https://github.com/fastai/course-nlp.git
