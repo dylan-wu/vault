@@ -6,7 +6,8 @@ log:
 	- Complete notes for 2. Neural networks, 2 lessons, Model Representation I and II
 - 09:22:34 Fast AI chapter 3/8 jupyter notebook
 	- Complete jupyter notebook for chapter 3/8
-- 09:49:32 
+- 09:49:32
+- 10:29:51 
 ---
 
 ## Day Planner
