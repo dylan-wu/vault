@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220608.md",
+            "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Logistic Regression Quiz.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220608.md",
+                "file": "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Logistic Regression Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,10 +103,10 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
+    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Logistic Regression Quiz.md",
     "Day Planners/Day Planner-20220608.md",
     "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation II.md",
     "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation I.md",
-    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Logistic Regression Quiz.md",
     "~/Templates/Log Entry.md",
     "Day Planners/Day Planner-20220607.md",
     "Daily/06-08-2022.md",
