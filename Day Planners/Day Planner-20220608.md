@@ -2,6 +2,7 @@
 log: 
 - 08:16:52 Stanford AI week 3 quiz completion
 - 08:40:48 Stanford AI week 4 notes
+- 09:22:34 Fast AI chapter 3/8 jupyter notebook
 ---
 
 ## Day Planner
@@ -28,4 +29,4 @@ log:
 	4. Example: https://itsfoss.com/, https://www.failory.com/, https://themillennialmoneywoman.com/
 3. 3:00 Create site generation template with github workflow | 30 minutes
 4. 3:30 Creating programming and writing SOPs | 30 minutes
-5. 4:00 Summarize daily tasks | 1 hour
+5. 4:00 Summarize daily tasks | 1 h
