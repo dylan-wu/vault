@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220608.md",
+            "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220608.md",
+                "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,12 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/Untitled.md",
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/2b. Odds and Ends.md",
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/2. SVD NMF Topic Modeling.md",
     "Day Planners/Day Planner-20220608.md",
     "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation I.md",
     "Courses/Stanford Machine Learning/Week 4/Week 4.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Logistic Regression Quiz.md",
     "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation II.md",
-    "~/Templates/Log Entry.md",
-    "Day Planners/Day Planner-20220607.md",
-    "Daily/06-08-2022.md",
-    "Daily/Template.md",
-    "Daily/06-07-2022.md"
-  ]
-}
+    "~/Templates/Log Entry.md
