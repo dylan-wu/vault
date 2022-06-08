@@ -7,8 +7,12 @@
         "id": "c84246a97a82589e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ObsidianMastery.com/$Notes/Create your own obsidian plugins.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"create your\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.00793838500977
+    "width": 283.00793838500977
   },
   "right": {
     "id": "ce8a96a391fc28ac",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ObsidianMastery.com/$Notes/Create your own obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,8 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
+    "ObsidianMastery.com/$Notes/Create your own obsidian plugins.md",
+    "ObsidianMastery.com/$Notes/How to create your own Obsidian Plugin.md",
     "ObsidianMastery.com/Notes/Create your own obsidian plugins.md",
     "Day Planners/Day Planner-20220608.md",
     "ObsidianMastery.com/Notes/Practically Paperless with Obsidian, Episode 26 - Use Case - Managing My Blog Writing in Obsidian.md",
@@ -105,8 +112,6 @@
     "SOP/Write tutorial based off of project.md",
     "SOP/Create a new content based website based off of UUI Studio blog and github workflows.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/3. Logreg NB IMDb/3. Logreg NB IMDb.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/4. Regex/README.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/2. SVD NMF Topic Modeling/2. SVD NMF Topic Modeling.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md"
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/4. Regex/README.md"
   ]
 }
