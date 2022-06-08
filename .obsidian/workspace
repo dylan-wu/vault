@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220608.md",
+            "file": "ObsidianMastery.com/Notes/Create your own obsidian plugins.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220608.md",
+                "file": "ObsidianMastery.com/Notes/Create your own obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
+    "ObsidianMastery.com/Notes/Create your own obsidian plugins.md",
     "Day Planners/Day Planner-20220608.md",
+    "ObsidianMastery.com/Notes/Practically Paperless with Obsidian, Episode 26 - Use Case - Managing My Blog Writing in Obsidian.md",
+    "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
+    "SOP/Write tutorial based off of project.md",
+    "SOP/Create a new content based website based off of UUI Studio blog and github workflows.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/3. Logreg NB IMDb/3. Logreg NB IMDb.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/4. Regex/README.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/2. SVD NMF Topic Modeling/2. SVD NMF Topic Modeling.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/3b. More Details/3b. More Details.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/2b. Odds and Ends/2b. Odds and Ends.md",
-    "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation I.md",
-    "Courses/Stanford Machine Learning/Week 4/Week 4.md",
-    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Logistic Regression Quiz.md"
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md"
   ]
 }

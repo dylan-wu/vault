@@ -7,7 +7,10 @@ log:
 - 09:22:34 Fast AI chapter 3/8 jupyter notebook
 	- Complete jupyter notebook for chapter 3/8
 - 09:49:32
-- 10:29:51 
+- 10:29:51 Complete website for SELF School
+- 12:03:19 Connect SELF School to netlify site and put on the web with correct domain
+- 13:39:03 Start writing how to create an obsidian plugin note for obsidianmastery
+- 14:36:32 Start adding remaining site features like more sections, vertical feeds, from examples list
 ---
 
 ## Day Planner
