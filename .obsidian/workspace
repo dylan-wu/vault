@@ -7,12 +7,8 @@
         "id": "c84246a97a82589e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ObsidianMastery.com/Notes/Create your own obsidian plugins.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Notes/Create your own obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
