@@ -81,6 +81,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "73d9b75b0259936a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2958597a3b6dcb61",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,4 +112,6 @@
     "Courses/Stanford Machine Learning/README.md",
     "Courses/Stanford Machine Learning/Week 1 Introduction and Review/README.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/R.md",
-    "SOP/Convert documentation into written t
+    "SOP/Convert documentation into written tutorial.md"
+  ]
+}
