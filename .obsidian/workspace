@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220608.md",
+            "file": "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation I.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220608.md",
+                "file": "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
+    "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation I.md",
     "Day Planners/Day Planner-20220608.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Logistic Regression Quiz.md",
     "~/Templates/Log Entry.md",
@@ -111,7 +112,6 @@
     "Daily/Template.md",
     "Daily/06-07-2022.md",
     "Courses/Stanford Machine Learning/README.md",
-    "Courses/Stanford Machine Learning/Week 1 Introduction and Review/README.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/R.md"
+    "Courses/Stanford Machine Learning/Week 1 Introduction and Review/README.md"
   ]
 }
