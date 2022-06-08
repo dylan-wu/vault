@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/Untitled.md",
+            "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/2. SVD NMF Topic Modeling/2. SVD NMF Topic Modeling.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/Untitled.md",
+                "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/2. SVD NMF Topic Modeling/2. SVD NMF Topic Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,12 +103,15 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/Untitled.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/2b. Odds and Ends.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/notes/2. SVD NMF Topic Modeling.md",
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/2. SVD NMF Topic Modeling/2. SVD NMF Topic Modeling.md",
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md",
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/3b. More Details/3b. More Details.md",
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/3. Logreg NB IMDb/3. Logreg NB IMDb.md",
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/2b. Odds and Ends/2b. Odds and Ends.md",
     "Day Planners/Day Planner-20220608.md",
     "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation I.md",
     "Courses/Stanford Machine Learning/Week 4/Week 4.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/2. Logistic Regression Model/Logistic Regression Quiz.md",
-    "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation II.md",
-    "~/Templates/Log Entry.md
+    "Courses/Stanford Machine Learning/Week 4/2. Neural Networks/Model Representation II.md"
+  ]
+}
