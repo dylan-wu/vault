@@ -1,7 +1,9 @@
 ---
 log: 
 - 08:16:52 Stanford AI week 3 quiz completion
+	- 3/5 questions
 - 08:40:48 Stanford AI week 4 notes
+	- Complete notes for 2. Neural networks
 - 09:22:34 Fast AI chapter 3/8 jupyter notebook
 	- Complete jupyter notebook for chapter 3/8
 - 09:49:32 
