@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220608.md",
+            "file": "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220608.md",
+                "file": "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
+    "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md",
     "Day Planners/Day Planner-20220608.md",
-    "ObsidianMastery.com/$Notes/How to create your own Obsidian Plugin.md",
+    "Organizer/Templates/Todos.md",
+    "Organizer/SOP/Write tutorial based off of project.md",
+    "Organizer/SOP/Convert articles and resources into tutorials.md",
+    "ObsidianMastery.com/$Notes/Workflow- Automating flows for creating literature notes.md",
     "ObsidianMastery.com/$Notes/Create your own obsidian plugins.md",
-    "ObsidianMastery.com/Notes/Create your own obsidian plugins.md",
-    "ObsidianMastery.com/Notes/Practically Paperless with Obsidian, Episode 26 - Use Case - Managing My Blog Writing in Obsidian.md",
-    "ObsidianMastery.com/Notes/Resource - Obsidian Hub.md",
-    "SOP/Write tutorial based off of project.md",
-    "SOP/Create a new content based website based off of UUI Studio blog and github workflows.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/3. Logreg NB IMDb/3. Logreg NB IMDb.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/4. Regex/README.md"
+    "ObsidianMastery.com/$Notes/Database folder plugin.md",
+    "ObsidianMastery.com/$Notes/How to create your own Obsidian Plugin.md",
+    "Organizer/SOP/Convert documentation into written tutorial.md"
   ]
 }

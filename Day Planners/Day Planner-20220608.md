@@ -6,11 +6,14 @@ log:
 	- Complete notes for 2. Neural networks, 2 lessons, Model Representation I and II
 - 09:22:34 Fast AI chapter 3/8 jupyter notebook
 	- Complete jupyter notebook for chapter 3/8
-- 09:49:32
+- 09:49:32Check in
 - 10:29:51 Complete website for SELF School
 - 12:03:19 Connect SELF School to netlify site and put on the web with correct domain
 - 13:39:03 Start writing how to create an obsidian plugin note for obsidianmastery
-- 14:36:32 Start adding remaining site features like more sections, vertical feeds, from examples list
+- 14:36:32 Check in
+- 14:59:58 Start adding remaining site features like more sections, vertical feeds, from examples list, complete uuistudio template blog tag pagination and generation
+- 16:23:32 Put SOP folder into organize, and write SOPs for tutorializing documentation
+- 16:40:00 Start constructing courses for SELF School
 ---
 
 ## Day Planner
