@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220609.md",
+            "file": "ObsidianMastery.com/$Notes/How to take lecture notes on math with Latex and Obsidian.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.00793838500977
+    "width": 282.00793838500977
   },
   "right": {
     "id": "ce8a96a391fc28ac",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220609.md",
+                "file": "ObsidianMastery.com/$Notes/How to take lecture notes on math with Latex and Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20220609.md",
-    "ObsidianMastery.com/$Notes/How I'm able to take notes in mathematics lectures using LaTeX and Vim.md",
     "ObsidianMastery.com/$Notes/How to take lecture notes on math with Latex and Obsidian.md",
+    "ObsidianMastery.com/$Notes/How to Generate Mermaid Diagrams for Your Database.md",
+    "ObsidianMastery.com/$Notes/How to Take Smart Notes in Obsidian.md",
+    "Day Planners/Day Planner-20220609.md",
+    "ObsidianMastery.com/$Notes/dbmstools.com.md",
+    "ObsidianMastery.com/$Notes/How I'm able to take notes in mathematics lectures using LaTeX and Vim.md",
     "Courses/Stanford Machine Learning/Week 1 Introduction and Review/Cornell Notes.md",
     "Day Planners/Day Planner-20220608.md",
     "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md",
-    "Organizer/Templates/Todos.md",
-    "Organizer/SOP/Write tutorial based off of project.md",
-    "Organizer/SOP/Convert articles and resources into tutorials.md",
-    "ObsidianMastery.com/$Notes/Workflow- Automating flows for creating literature notes.md"
+    "Organizer/Templates/Todos.md"
   ]
 }
