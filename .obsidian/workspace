@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Stanford Machine Learning/Week 1 Introduction and Review/Cornell Notes.md",
+            "file": "ObsidianMastery.com/$Notes/How I'm able to take notes in mathematics lectures using LaTeX and Vim.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stanford Machine Learning/Week 1 Introduction and Review/Cornell Notes.md",
+                "file": "ObsidianMastery.com/$Notes/How I'm able to take notes in mathematics lectures using LaTeX and Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "c84246a97a82589e",
   "lastOpenFiles": [
-    "Courses/Stanford Machine Learning/Week 1 Introduction and Review/Cornell Notes.md",
+    "ObsidianMastery.com/$Notes/How I'm able to take notes in mathematics lectures using LaTeX and Vim.md",
+    "ObsidianMastery.com/$Notes/How to take lecture notes on math with Latex and Obsidian.md",
     "Day Planners/Day Planner-20220609.md",
+    "Courses/Stanford Machine Learning/Week 1 Introduction and Review/Cornell Notes.md",
     "Day Planners/Day Planner-20220608.md",
     "Vaults/DataKaiju.com/Inbox/The Dinosaur Database.md",
     "Organizer/Templates/Todos.md",
     "Organizer/SOP/Write tutorial based off of project.md",
     "Organizer/SOP/Convert articles and resources into tutorials.md",
-    "ObsidianMastery.com/$Notes/Workflow- Automating flows for creating literature notes.md",
-    "ObsidianMastery.com/$Notes/Create your own obsidian plugins.md",
-    "ObsidianMastery.com/$Notes/Database folder plugin.md"
+    "ObsidianMastery.com/$Notes/Workflow- Automating flows for creating literature notes.md"
   ]
 }

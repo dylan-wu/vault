@@ -7,7 +7,7 @@ log:
 
 ## Morning
 - [x] 08:10 FastAI fix jupyter notebook issuesand get to be able to run | 50 minutes
-- [ ] 09:00 Stanford AI Week 1 -2 organize questions for | 45 minutes
+- [x] 09:00 Stanford AI Week 1 -2 organize questions for | 45 minutes
 - [ ] 09:45 Write How to take lecture notes using latex and obsidian | 1 hour
 
 ## Afternoon
