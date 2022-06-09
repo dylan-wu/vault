@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220609.md",
+            "file": "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "155459882d9ce0db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220609.md",
+                "file": "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +113,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c84246a97a82589e",
+  "active": "155459882d9ce0db",
   "lastOpenFiles": [
+    "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
+    "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
+    "ObsidianMastery.com/$Publish/Untitled.md",
+    "ObsidianMastery.com/$Notes/How to create your own Obsidian Plugin.md",
+    "ObsidianMastery.com/Content/Course/Obsidian Mastery Course.md",
+    "ObsidianMastery.com/$Notes/golangexample.com.md",
     "Day Planners/Day Planner-20220609.md",
-    "ObsidianMastery.com/$Notes/Here Is How I Use Tags 🏷️ And Links 🔗️ In Obsidian To Manage My Zettelkasten.md",
-    "ObsidianMastery.com/$Notes/How I'm able to take notes in mathematics lectures using LaTeX and Vim.md",
-    "ObsidianMastery.com/$Notes/How to take lecture notes on math with Latex and Obsidian.md",
-    "Day Planners/Day Planner-20220608.md",
-    "ObsidianMastery.com/$MOCs/Booklists.md",
-    "ObsidianMastery.com/Ideas.md",
-    "ObsidianMastery.com/Inbox.md",
-    "ObsidianMastery.com/$Notes/How to Generate Mermaid Diagrams for Your Database.md",
-    "ObsidianMastery.com/$Notes/How to Take Smart Notes in Obsidian.md"
+    "ObsidianMastery.com/$Notes/Video - Comprehensive Obsidian & Zotero Workflow For Zettelkasten & Evergreen Notes.md",
+    "ObsidianMastery.com/$Notes/Plugin Pandoc.md",
+    "ObsidianMastery.com/$Notes/Workflow- Automating flows for creating literature notes.md"
   ]
 }

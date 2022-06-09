@@ -3,6 +3,7 @@ log:
 - 08:10:27 FastAI fix jupyter notebook issuesand get to be able to run
 - 12:17:41 Start check in
 - 13:17:41 Add site features like vertical feed and filtered posts
+- 15:04:04 
 ---
 
 ## Day Planner
@@ -24,9 +25,9 @@ log:
 		1. Vertical look
 	3. Fix sign up button
 	4. Example: https://itsfoss.com/, https://www.failory.com/, https://themillennialmoneywoman.com/
-- [ ] 13:30 Start constructing courses for SELF School with dad | 2 hour
+- [x] 13:30 Start constructing courses for SELF School with dad | 2 hour
 	1. Github
 	2. Obisidian
 	3. Algebra
-- [ ] 15:30 Writing SOPs for course creation and site programming | 30 minutes
-- [ ] 16:00 Daily review | 1 hour
+- [x] 15:30 Writing SOPs for course creation and site programming | 30 minutes
+- [x] 16:00 Daily review | 1 hour
