@@ -1,17 +1,24 @@
 ---
 log:
 - 08:10:27 FastAI fix jupyter notebook issuesand get to be able to run
+- 12:17:41 Start check in
+- 13:17:41 Add site features like vertical feed and filtered posts
 ---
 
 ## Day Planner
 
 ## Morning
-- [x] 08:10 FastAI fix jupyter notebook issuesand get to be able to run | 50 minutes
-- [x] 09:00 Stanford AI Week 1 -2 organize questions for | 45 minutes
-- [ ] 09:45 Write How to take lecture notes using latex and obsidian | 1 hour
+- [x] 08:10 FastAI fix jupyter notebook issues and get to be able to run | 50 minutes
+- [x] 09:00 Stanford AI Week 1 - 2 organize questions for | 45 minutes
+- [x] 09:45 Write How to take lecture notes using latex and obsidian | 1 hour
+	- [x] Create outline based off of example articles ✅ 2022-06-09
+	- [x] Write 400 words on how to use latex, obsidian and excalidraw to write notes ✅ 2022-06-09
+
+## Lunch
+- [x] 11:00 Lunch
 
 ## Afternoon
-- [ ] 12:30 Remaining site features | 1 hour
+- [x] 12:30 Remaining site features | 1 hour
 	1. More sections
 	2. Add feeds
 		1. Vertical look
