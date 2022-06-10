@@ -34,6 +34,8 @@ Topics covered:
 
 4. Regex (and re-visiting tokenization)
 
+
+
 5. Language modeling & sentiment classification with deep learning
 
 - Language model
