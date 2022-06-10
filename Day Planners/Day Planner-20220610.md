@@ -28,7 +28,7 @@ log:
 	- [x] Connect contact ✅ 2022-06-10
 	- [x] Add resources for SELF School ✅ 2022-06-10
 - [x] 13:00 SELF School courses and curriculum creation and ideation | 1 hour
-- [ ] 14:00 Writing SOPs for course creation and site programming | 30 minutes
+- [x] 14:00 Writing SOPs for course creation and site programming | 30 minutes
 - [ ] 14:30 Writing scripts for Million Dollar Tube | 1 hour
 - [ ] 15:30 Obsidian Mastery fix site | 1 hour 30 minutes
 	- [ ] Write about
