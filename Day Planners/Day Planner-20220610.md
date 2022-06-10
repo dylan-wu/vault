@@ -23,9 +23,9 @@ log:
 ## Afternoon
 - [x] 12:00 Check in
 - [x] 12:30 SELF School website writing, post cleaning | 30 minutes
-	- [ ] Create courses/curriculum list
-	- [ ] Connect contact
-	- [ ] Add resources for SELF School
+	- [x] Create courses/curriculum list ✅ 2022-06-10
+	- [x] Connect contact ✅ 2022-06-10
+	- [x] Add resources for SELF School ✅ 2022-06-10
 - [ ] 13:00 SELF School courses and curriculum creation and ideation | 1 hour
 - [ ] 14:00 Writing SOPs for course creation and site programming | 30 minutes
 - [ ] 14:30 Writing scripts for Million Dollar Tube | 1 hour
