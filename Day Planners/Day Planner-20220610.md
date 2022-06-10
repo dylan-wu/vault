@@ -9,7 +9,7 @@ log:
 	- Site should have a default logo
 	- Data driven author image and date
 	- Put site header next to logo in navbar
-- 
+- 14:00:28 Writing SOPs for course creation and site programming
 ---
 
 ## Day Planner
@@ -27,7 +27,7 @@ log:
 	- [x] Create courses/curriculum list ✅ 2022-06-10
 	- [x] Connect contact ✅ 2022-06-10
 	- [x] Add resources for SELF School ✅ 2022-06-10
-- [ ] 13:00 SELF School courses and curriculum creation and ideation | 1 hour
+- [x] 13:00 SELF School courses and curriculum creation and ideation | 1 hour
 - [ ] 14:00 Writing SOPs for course creation and site programming | 30 minutes
 - [ ] 14:30 Writing scripts for Million Dollar Tube | 1 hour
 - [ ] 15:30 Obsidian Mastery fix site | 1 hour 30 minutes
