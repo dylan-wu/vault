@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organizer/SOPs/Write tutorial based off of project.md",
+            "file": "Organizer/Content/Site Builder.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizer/SOPs/Write tutorial based off of project.md",
+                "file": "Organizer/Content/Site Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "155459882d9ce0db",
   "lastOpenFiles": [
+    "Organizer/Content/Site Builder.md",
     "Organizer/SOPs/Write tutorial based off of project.md",
     "Organizer/SOPs/Create a new content based website based off of UUI Studio blog and github workflows.md",
     "Organizer/SOPs/Convert documentation into written tutorial.md",
@@ -111,7 +112,6 @@
     "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
     "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/README.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/2. SVD NMF Topic Modeling/2. SVD NMF Topic Modeling.md",
-    "Courses/Stanford Machine Learning/Week 2/Cornell Notes.md"
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/2. SVD NMF Topic Modeling/2. SVD NMF Topic Modeling.md"
   ]
 }
