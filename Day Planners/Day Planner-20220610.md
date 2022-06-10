@@ -5,10 +5,11 @@ log:
 - 10:00:54 Astro site template add blog author and publish date, fix latex and markdown issue inside of astro
 - 11:01:33 Start lunch
 - 12:08:46 Check in
-- 12:16:35 Start fixing websites for both SELF School and Obsidian Master
+- 12:16:35 Start fixing websites for both SELF School and Obsidian Mastery
 	- Site should have a default logo
 	- Data driven author image and date
 	- Put site header next to logo in navbar
+- 
 ---
 
 ## Day Planner
