@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c84246a97a82589e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "155459882d9ce0db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
+            "file": "Day Planners/Day Planner-20220610.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
+                "file": "Day Planners/Day Planner-20220610.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +103,15 @@
   },
   "active": "155459882d9ce0db",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220610.md",
+    "Day Planners/Day Planner-20220609.md",
     "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
     "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
     "ObsidianMastery.com/$Publish/Untitled.md",
     "ObsidianMastery.com/$Notes/How to create your own Obsidian Plugin.md",
     "ObsidianMastery.com/Content/Course/Obsidian Mastery Course.md",
     "ObsidianMastery.com/$Notes/golangexample.com.md",
-    "Day Planners/Day Planner-20220609.md",
     "ObsidianMastery.com/$Notes/Video - Comprehensive Obsidian & Zotero Workflow For Zettelkasten & Evergreen Notes.md",
-    "ObsidianMastery.com/$Notes/Plugin Pandoc.md",
-    "ObsidianMastery.com/$Notes/Workflow- Automating flows for creating literature notes.md"
+    "ObsidianMastery.com/$Notes/Plugin Pandoc.md"
   ]
 }
