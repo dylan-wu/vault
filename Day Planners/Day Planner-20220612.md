@@ -5,7 +5,8 @@ log:
 	- Also complete week 3, part 1 of 4 Classification and Representation
 - 10:00:07 Try and create template-blog books comment list, add filtering for comments from books
 - 11:00:36 Start lunch
-- 
+- 12:00:58 Check in
+- 12:13:06 Fix template blog links and 
 ---
 
 ## Day Planner
@@ -20,4 +21,4 @@ log:
 
 ## Afternoon
 - [x] 12:00 Check in
-- [x] 12:30 Fix template blog links and
+- [x] 12:30 Fix template blog links and add pa
