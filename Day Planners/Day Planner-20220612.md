@@ -16,4 +16,5 @@ log:
 - [ ] 11:00 Lunch
 
 ## Afternoon
-- [ ] 12:00 C
+- [ ] 12:00 Check in
+- [ ] 12:30 
