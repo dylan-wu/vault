@@ -4,6 +4,7 @@ log:
 - 09:02:34 Complete part 2 of week 2 of stanford AI Computing parameters analytically
 	- Also complete week 3, part 1 of 4 Classification and Representation
 - 10:00:07 Try and create template-blog books comment list, add filtering for comments from books
+- 13:10:36 
 ---
 
 ## Day Planner
