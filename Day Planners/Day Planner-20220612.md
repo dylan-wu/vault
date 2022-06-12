@@ -14,7 +14,7 @@ log:
 - [x] 10:00 Try and create template-blog books comment list
 
 ## Lunch
-- [ ] 11:00 Lunch
+- [x] 11:00 Lunch
 
 ## Afternoon
 - [ ] 12:00 Check in
