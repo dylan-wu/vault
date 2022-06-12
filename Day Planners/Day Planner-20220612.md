@@ -7,7 +7,8 @@ log:
 - 11:00:36 Start lunch
 - 12:00:58 Check in
 - 12:13:06 Fix template blog links, add page headers and create comments list components
-- 13:59:56 Fix obsidian and and
+- 13:59:56 Fix obsidian and github issues
+- 14:42:50 
 ---
 
 ## Day Planner
