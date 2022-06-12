@@ -2,12 +2,12 @@
 log:
 - 08:00:55 Begin taking notes for FastAI jupyter notebook 2/8 on SVD, NMF and topic modeling techniques
 - 09:02:34 Complete part 2 of week 2 of stanford AI Computing parameters analytically
-	- Also complete week 3, part 1 of 4 
+	- Also complete week 3, part 1 of 4 Classification and Representation
 ---
 
 ## Day Planner
 
 ## Morning
 - [x] 08:00 Create FastAI Q&A, outline, report on course structure and content, jupyter notebook 2 out of 8 | 1 Hour
-- [ ] 09:00 Stanford AI Week 2 part 2 "Computing paramters analytically" Q&A organization | 1 Hour
-- [ ] 10:00 
+- [x] 09:00 Stanford AI Week 2 part 2 "Computing paramters analytically" Q&A organization | 1 Hour
+- [x] 10:00 
