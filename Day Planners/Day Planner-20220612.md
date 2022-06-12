@@ -17,5 +17,5 @@ log:
 - [x] 11:00 Lunch
 
 ## Afternoon
-- [ ] 12:00 Check in
-- [ ] 12:30 
+- [x] 12:00 Check in
+- [x] 12:30 
