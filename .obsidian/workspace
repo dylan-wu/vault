@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Stanford Machine Learning/Week 3/1. Classification and Representation/README.md",
+            "file": "Day Planners/Day Planner-20220612.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Stanford Machine Learning/Week 3/1. Classification and Representation/README.md",
+                "file": "Day Planners/Day Planner-20220612.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +103,11 @@
   },
   "active": "155459882d9ce0db",
   "lastOpenFiles": [
-    "Courses/Stanford Machine Learning/Week 3/1. Classification and Representation/README.md",
-    "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/README.md",
+    "Day Planners/Day Planner-20220612.md",
     "Courses/Stanford Machine Learning/Week 2/Cornell Notes.md",
     "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/2. Multivariate Linear Regression.md",
-    "Day Planners/Day Planner-20220612.md",
+    "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/README.md",
+    "Courses/Stanford Machine Learning/Week 3/1. Classification and Representation/README.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/2. SVD NMF Topic Modeling/2. SVD NMF Topic Modeling.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/2b. Odds and Ends/2b. Odds and Ends.md",
     "Courses/Fast AI Code-First Introduction to Natural Language Processing/3. Logreg NB IMDb/3. Logreg NB IMDb.md",
