@@ -1,3 +1,8 @@
+---
+log:
+- 08:00:55 
+---
+
 ## Day Planner
 
 ## Morning
