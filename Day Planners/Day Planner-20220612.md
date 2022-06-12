@@ -6,7 +6,7 @@ log:
 - 10:00:07 Try and create template-blog books comment list, add filtering for comments from books
 - 11:00:36 Start lunch
 - 12:00:58 Check in
-- 12:13:06 Fix template blog links and 
+- 12:13:06 Fix template blog links, add page headers and create comments list components
 ---
 
 ## Day Planner
@@ -21,4 +21,4 @@ log:
 
 ## Afternoon
 - [x] 12:00 Check in
-- [x] 12:30 Fix template blog links and add pa
+- [x] 12:30 Fix template blog links, add page headers and create comments list components
