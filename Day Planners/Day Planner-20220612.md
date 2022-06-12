@@ -1,6 +1,7 @@
 ---
 log:
-- 08:00:55 
+- 08:00:55 Begin taking notes for FastAI jupyter notebook 2/8 on SVD, NMF and topic modeling techniques
+- 09:02:34 Complete part 2 of week 2 of stanford AI Computing parameters analytically
 ---
 
 ## Day Planner
