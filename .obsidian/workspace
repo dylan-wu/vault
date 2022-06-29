@@ -7,8 +7,12 @@
         "id": "176a95a9ad87b0fc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ObsidianMastery.com/$Notes/Inter-plugin Communication (Expose API to Other Plugins).md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ObsidianMastery.com/$Notes/Inter-plugin Communication (Expose API to Other Plugins).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
   },
   "active": "176a95a9ad87b0fc",
   "lastOpenFiles": [
+    "ObsidianMastery.com/$Notes/Inter-plugin Communication (Expose API to Other Plugins).md",
     "Day Planners/Day Planner-20220629.md",
     "Day Planners/Day Planner-20220612.md",
     "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
@@ -106,7 +112,6 @@
     "Content/Reduct/README.md",
     "Day Planners/Day Planner-20220613.md",
     "Courses/FastAI NLP/1. What is NLP/1. What is NLP.md",
-    "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md",
-    "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/5. Solving the Problem of Overfitting/The problem of overfitting.md"
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md"
   ]
 }
