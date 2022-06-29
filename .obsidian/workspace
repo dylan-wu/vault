@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220629.md",
+            "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220629.md",
+                "file": "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "155459882d9ce0db",
   "lastOpenFiles": [
+    "Courses/Fast AI Code-First Introduction to Natural Language Processing/1. What is NLP/1. What is NLP.md",
     "Day Planners/Day Planner-20220629.md",
     "Courses/Stanford Machine Learning/Week 3 Logic Regression and Classification/5. Solving the Problem of Overfitting/The problem of overfitting.md",
     "Day Planners/Day Planner-20220613.md",
@@ -111,7 +112,6 @@
     "Day Planners/Day Planner-20220610.md",
     "Courses/Stanford Machine Learning/Week 2/Cornell Notes.md",
     "Courses/Stanford Machine Learning/Week 2/2. Multivariate Linear Regression/2. Multivariate Linear Regression.md",
-    "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/README.md",
-    "Courses/Stanford Machine Learning/Week 3/1. Classification and Representation/README.md"
+    "Courses/Stanford Machine Learning/Week 2/3. Computing Parameters Analytically/README.md"
   ]
 }
