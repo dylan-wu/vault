@@ -1,1 +1,1 @@
-Our sun is the most massive object in our solar system, taking up 
+Our sun is the most massive object in our solar system, taking up 99.8% of the total mass of the solar system
