@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
+            "file": "Day Planners/Day Planner-20220630.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
+                "file": "Day Planners/Day Planner-20220630.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "176a95a9ad87b0fc",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220630.md",
+    "Day Planners/Day Planner-20220629.md",
     "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
     "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
     "ObsidianMastery.com/$Publish/What is obsidian.md",
     "ObsidianMastery.com/$Notes/Awesome Obsidian.md",
     "ObsidianMastery.com/$Notes/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md",
     "ObsidianMastery.com/$Notes/Inter-plugin Communication (Expose API to Other Plugins).md",
-    "Day Planners/Day Planner-20220629.md",
     "Day Planners/Day Planner-20220612.md",
-    "Content/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
-    "Content/Reduct/README.md"
+    "Content/Tutorial on automatically generating images via search query from unsplash, or just a random image.md"
   ]
 }
