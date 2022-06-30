@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/$Tasks/Task - Remove website articles and add relevant obsidian mastery articles.md",
+            "file": "ObsidianMastery.com/$Publish/How I use obsidian MD as my.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/$Tasks/Task - Remove website articles and add relevant obsidian mastery articles.md",
+                "file": "ObsidianMastery.com/$Publish/How I use obsidian MD as my.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "176a95a9ad87b0fc",
   "lastOpenFiles": [
+    "ObsidianMastery.com/$Publish/How I use obsidian MD as my.md",
+    "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
     "ObsidianMastery.com/$Tasks/Task - Remove website articles and add relevant obsidian mastery articles.md",
     "~/Templates/Log Entry.md",
     "Day Planners/Day Planner-20220630.md",
     "Day Planners/Day Planner-20220629.md",
     "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
-    "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
     "ObsidianMastery.com/$Publish/What is obsidian.md",
     "ObsidianMastery.com/$Notes/Awesome Obsidian.md",
-    "ObsidianMastery.com/$Notes/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md",
-    "ObsidianMastery.com/$Notes/Inter-plugin Communication (Expose API to Other Plugins).md"
+    "ObsidianMastery.com/$Notes/! A script for Quickadd plugin to fetch book data into your vault using Google Books!.md"
   ]
 }
