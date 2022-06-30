@@ -4,4 +4,5 @@ The sun is a normal main-sequence G2 star, now, when we say normal, we don't mea
 
 The sun is powered by nuclear fusion, using the incredible pressures and temperatures within itself to fuse hydrogen into helium, and in the future to fuse helium into other, heavier elements.
 
-The su
+The sun is not a solid body, but rather a collection of plasma, as such, the outer layers of the sun can exhibit different rotations, for example, the equator of the surface roates once every 25.4 days, while at the poles it's as much as 36 days.
+
