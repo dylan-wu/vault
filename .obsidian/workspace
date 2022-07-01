@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/FastAI NLP/1. What is NLP/1. What is NLP.md",
+            "file": "Courses/Introduction to NLP/1. What is NLP.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FastAI NLP/1. What is NLP/1. What is NLP.md",
+                "file": "Courses/Introduction to NLP/1. What is NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "176a95a9ad87b0fc",
   "lastOpenFiles": [
+    "Courses/Introduction to NLP/1. What is NLP.md",
     "Courses/FastAI NLP/1. What is NLP/1. What is NLP.md",
     "ObsidianMastery.com/$Publish/How I take smart notes in Obsidian MD.md",
     "ObsidianMastery.com/$Publish/What is obsidian.md",
@@ -111,7 +112,6 @@
     "Content/Runway Introduction.md",
     "Content/Tutorial on automatically generating images via search query from unsplash, or just a random image.md",
     "Content/Solar Neighbor/Sun.md",
-    "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
-    "ObsidianMastery.com/$Tasks/Task - Remove website articles and add relevant obsidian mastery articles.md"
+    "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md"
   ]
 }
