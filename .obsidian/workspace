@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Course/README.md",
+            "file": "ObsidianMastery.com/$Publish/What is obsidian.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Course/README.md",
+                "file": "ObsidianMastery.com/$Publish/What is obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "176a95a9ad87b0fc",
   "lastOpenFiles": [
+    "ObsidianMastery.com/$Publish/What is obsidian.md",
     "ObsidianMastery.com/Course/README.md",
     "ObsidianMastery.com/Course/Introduction to Obsidian.md",
     "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
@@ -111,7 +112,6 @@
     "ObsidianMastery.com/$Publish/How I take smart notes in Obsidian MD.md",
     "Courses/Untitled.md",
     "Courses/Introduction to NLP/1. What is NLP.md",
-    "Courses/FastAI NLP/1. What is NLP/1. What is NLP.md",
-    "ObsidianMastery.com/$Publish/What is obsidian.md"
+    "Courses/FastAI NLP/1. What is NLP/1. What is NLP.md"
   ]
 }
