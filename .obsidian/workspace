@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ObsidianMastery.com/Course/Introduction to Obsidian.md",
+            "file": "ObsidianMastery.com/Course/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMastery.com/Course/Introduction to Obsidian.md",
+                "file": "ObsidianMastery.com/Course/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +103,8 @@
   },
   "active": "176a95a9ad87b0fc",
   "lastOpenFiles": [
-    "ObsidianMastery.com/Course/Introduction to Obsidian.md",
     "ObsidianMastery.com/Course/README.md",
+    "ObsidianMastery.com/Course/Introduction to Obsidian.md",
     "ObsidianMastery.com/$Publish/What is obsidian.md",
     "ObsidianMastery.com/$Notes/How I take smart notes in Obsidian MD.md",
     "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
