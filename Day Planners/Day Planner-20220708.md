@@ -5,4 +5,4 @@
 Obsidian mastery
 - Create course introduction
 - Create course curriculum
-- Create course website 
+- Create course website and copy
