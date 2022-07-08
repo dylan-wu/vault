@@ -1,2 +1,3 @@
 ## Day Planner
-- [ ] 
+
+## Overall planning

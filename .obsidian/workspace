@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Add secret token in GitHub action workflows.md",
+            "file": "Day Planners/Day Planner-20220708.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Add secret token in GitHub action workflows.md",
+                "file": "Day Planners/Day Planner-20220708.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "176a95a9ad87b0fc",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220708.md",
     "Notes/Add secret token in GitHub action workflows.md",
     "ObsidianMastery.com/Course/Introduction to Obsidian.md",
     "ObsidianMastery.com/Course/README.md",
@@ -111,7 +112,6 @@
     "ObsidianMastery.com/$Notes/How I take smart notes in Obsidian MD.md",
     "ObsidianMastery.com/$Publish/Create your own obsidian plugins.md",
     "ObsidianMastery.com/$Publish/How to take lecture notes on math with Latex and Obsidian.md",
-    "Content/Mathematics/Algebra/README.md",
-    "Content/Mathematics/README.md"
+    "Content/Mathematics/Algebra/README.md"
   ]
 }
